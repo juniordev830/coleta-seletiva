@@ -1,48 +1,42 @@
-# Coleta Seletiva
+<div align="center">
+  <img src="./assets/banner.svg" alt="Engenheiro de Software — Web, APIs, Automação, Dados e Cloud" width="100%" />
+</div>
 
-> Status: concepção. Este repositório contém apenas o escopo inicial; ainda não há aplicação executável ou funcionalidades implementadas.
+<div align="center">
+  <p><strong>João Júnior</strong> · Rio Grande do Norte, Brasil</p>
+  <p>Graduando em Engenharia de Software. Construindo aplicações web, APIs e soluções escaláveis.</p>
+</div>
 
-## Ideia
+<h2 align="center">Principais Tecnologias</h2>
 
-Ajudar moradores a organizar pontos e dias de coleta de recicláveis.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,py,docker,aws&amp;theme=dark&amp;perline=8" alt="Java, Spring Boot, React, TypeScript, JavaScript, Python, Docker e AWS" width="615" />
+</div>
 
-## Primeira versão planejada
+<br />
 
-- [ ] Cadastrar pontos de coleta manualmente.
-- [ ] Filtrar por material aceito.
-- [ ] Consultar agenda semanal cadastrada.
+<h2 align="center">Projetos em destaque</h2>
 
-## Modelo inicial
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/juniordev830/plataforma-de-recrutamento">Plataforma de Recrutamento</a></h3>
+      <p>Projeto de portfólio para vagas e candidaturas, com autenticação e API REST.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>SQLite</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/juniordev830/sentinel-atlas">Sentinel Atlas</a></h3>
+      <p>Plataforma experimental de monitoramento geoespacial, globo 3D e geofencing.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Web 3D</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/juniordev830/controle-gastos-residenciais">Controle de Gastos</a></h3>
+      <p>API .NET para organizar receitas e despesas familiares; interface web ainda em evolução.</p>
+      <p><code>C#</code> <code>.NET 8</code> <code>SQLite</code></p>
+    </td>
+  </tr>
+</table>
 
-Ponto de coleta, material e horário.
-
-## Regras e limites
-
-Usar dados fictícios na primeira versão; não publicar endereços pessoais.
-
-Escopo mantido pequeno: sem pagamentos, integrações externas, infraestrutura de produção ou uso de dados pessoais reais nesta etapa.
-
-## Tecnologia proposta
-
-Kotlin + Jetpack Compose.
-
-A escolha é uma proposta para a futura implementação; nenhuma dependência foi instalada e a tecnologia ainda não foi implementada.
-
-## Critério de conclusão do primeiro incremento
-
-Ao selecionar vidro, mostrar somente pontos que aceitam esse material.
-
-## Próximos passos
-
-1. Revisar este escopo antes de começar a implementação.
-2. Preparar o ambiente mínimo da tecnologia escolhida.
-3. Implementar um fluxo completo e validar o critério acima.
-4. Documentar a execução e acrescentar exemplos demonstrativos.
-
-## Possíveis evoluções
-
-Depois de validar o fluxo principal, avaliar persistência, acessibilidade e uma interface mais completa conforme a plataforma. Evoluções não fazem parte da entrega atual.
-
-## Como executar
-
-Ainda não há comandos de execução. Eles serão adicionados quando existir uma primeira versão funcional.
+<div align="center">
+  <a href="https://github.com/juniordev830?tab=repositories"><strong>Ver todos os repositórios</strong></a>
+</div>
