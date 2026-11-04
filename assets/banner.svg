@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="295" viewBox="0 0 1440 295" role="img" aria-label="Engenheiro de Software — Web, APIs, Automação, Dados e Cloud">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1117"/><stop offset="1" stop-color="#101921"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1a6875" stop-opacity=".65"/><stop offset="1" stop-color="#33454d" stop-opacity=".65"/></linearGradient>
+</defs>
+<rect width="1440" height="295" fill="url(#bg)" rx="29"/>
+<rect x="4" y="4" width="1432" height="287" rx="28" fill="none" stroke="#2c7180" stroke-width="1.5"/>
+<g opacity=".2" stroke="#253942" stroke-width="1">
+<path d="M107 0L200 295M220 0L313 295M333 0L426 295M446 0L539 295M559 0L652 295M672 0L765 295M785 0L878 295M898 0L991 295"/>
+</g>
+<rect x="39" y="51" width="126" height="193" rx="24" fill="#10232c" stroke="#297e8d" stroke-width="2"/>
+<text x="102" y="165" text-anchor="middle" fill="#42d8e3" font-size="67" font-family="Arial, Helvetica, sans-serif" font-weight="bold">&lt;/&gt;</text>
+<rect x="206" y="70" width="3" height="153" fill="#44d6e3"/>
+<text x="252" y="128" fill="#f2f6f9" font-size="61" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Engenheiro de</text>
+<text x="778" y="128" fill="#39d5df" font-size="61" font-family="Arial, Helvetica, sans-serif" font-weight="bold">Software</text>
+<text x="251" y="194" fill="#b8c7d0" font-size="29" font-family="Arial, Helvetica, sans-serif">Web  •  APIs  •  Automação  •  Dados  •  Cloud</text>
+<g stroke="url(#line)" stroke-linecap="round" stroke-width="6"><path d="M1161 58h180"/><path d="M1161 86h117"/><path d="M1161 114h218"/><path d="M1161 142h157"/><path d="M1161 170h215"/><path d="M1161 198h109"/></g>
+</svg>
