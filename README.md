@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Engenheiro de Software — Web, APIs, Automação, Dados e Cloud" width="100%" />
+  <img src="https://raw.githubusercontent.com/juniordev830/juniordev830/main/assets/banner.png" alt="Engenheiro de Software — Web, APIs, Automação, Dados e Cloud" width="100%" />
 </div>
 
 <div align="center">
